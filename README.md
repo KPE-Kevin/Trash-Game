@@ -1,4 +1,4 @@
-#Trash-Game
+# Trash-Game
 Trash Game es un viodejuego creado por un equipo de cinco persona
 -Daniel Paulino Bautista Gárcia
 -Carlos Andrés Pérez Hernández
